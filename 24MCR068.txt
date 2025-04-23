@@ -2,3 +2,4 @@ Name:Mohanapriya K
 Reg.No:24MCR068
 Dept:MCA
 Fav.Subject:JAVA
+Mobile Model:Redmi 13C 5G
